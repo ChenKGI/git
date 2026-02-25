@@ -1,1 +1,1 @@
-const ckg = ''
+const ckg = 'ckg'
